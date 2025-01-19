@@ -1,5 +1,5 @@
 # hair-detection 
-nullclass internship task2
+nullclass internship task
 data set download- https://www.kaggle.com/datasets/jangedoo/utkface-new
 import tensorflow
 import cv2
